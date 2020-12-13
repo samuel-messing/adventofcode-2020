@@ -76,7 +76,7 @@ fn main() {
             num_new_valid += 1;
         }
     }
-    println!("The answer to part one is: {}", num_new_valid);
+    println!("The answer to part two is: {}", num_new_valid);
 
 }
 
